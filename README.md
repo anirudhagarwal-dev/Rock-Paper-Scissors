@@ -1,4 +1,4 @@
-# Stone Paper Scissors
+# Rock Paper Scissors
 
 A simple browser game of Rock–Paper–Scissors built with `HTML`, `CSS`, and `JavaScript`.
 
